@@ -95,6 +95,10 @@
     "icon": "/networks/moonriver.png",
     "name": "moonriver"
   },
+  "moonbeam": {
+    "icon": "/networks/moonbeam.png",
+    "name": "moonbeam"
+  },
   "kico": {
     "icon": "/networks/kico.png",
     "name": "kico"
